@@ -1,0 +1,19 @@
+[user]
+	name = Velkee
+	email = 89312879+Velkee@users.noreply.github.com
+	signingkey = 91DEF6D96F7258CD
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
+[push]
+	autoSetupRemote = true
+[diff]
+	algorithm = histogram
+	colorMoved = default
+[rerere]
+	enabled = true
+[feature]
+	manyFiles = true
