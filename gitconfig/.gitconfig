@@ -17,3 +17,5 @@
 	enabled = true
 [feature]
 	manyFiles = true
+[core]
+	editor = nvim
